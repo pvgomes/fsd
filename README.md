@@ -7,3 +7,5 @@ This is just a repo to help people learn how to code from scratch, we're using t
 ### How to run
 Most of the scripts here its just scripts with code, just run:
 `node filename.js`
+
+or using interactive
