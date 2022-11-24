@@ -1,4 +1,5 @@
 const prompt = require("prompt-sync")({ sigint: true });
+
 name = prompt("What is your name?: ");
 console.log("Como te vas " + name);
 asserts = prompt("How many questions do you have right?: ");
