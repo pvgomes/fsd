@@ -9,3 +9,7 @@ Most of the scripts here its just scripts with code, just run:
 `node filename.js`
 
 or using interactive
+
+
+### Dependencies
+`npm install prompt-sync`
