@@ -1,4 +1,4 @@
-maxBeer = 20;
+maxBeer = 40;
 drinkingBeers = 0;
 while(drinkingBeers <= maxBeer) {
   console.log("You can drink you are on your beer number " + drinkingBeers);
